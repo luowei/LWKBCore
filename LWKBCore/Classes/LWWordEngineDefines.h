@@ -4,18 +4,40 @@
 #ifndef LWWordEngineDefines____FILEEXTENSION___
 #define LWWordEngineDefines____FILEEXTENSION___
 
-#import "LWWordsService.h"
-#import "LWBihuaService.h"
-#import "LWEnlishService.h"
-#import "LWHandwrittingService.h"
-#import "LWInstanceFactory.h"
-#import "LWMarsService.h"
-#import "LWPinYinService.h"
-#import "LWPyService.h"
-#import "LWSymbolService.h"
-#import "LWWubiService.h"
+// const、static、extern
+// const用来修饰右边的基本变量或指针变量
+// int  const  *p   //  *p只读 ;p变量
+// int  * const  p  // *p变量 ; p只读
+// const  int   * const p //p和*p都只读
+// int  const  * const  p   //p和*p都只读
+
+// static修饰后此全局变量只能本文件访问
+// static修饰全局变量: 使全局变量的作用域仅限于当前文件内部，即当前文件内部才能访问该全局变量。
+// static修饰函数时，被修饰的函数被称为静态函数，使得外部文件无法访问这个函数，仅本文件可以访问。
+
+// extern 声明外部全局变量
+// extern NSString * const Key_Handwritting_Language;
+// extern NSString * const Key_TopSpeed_Input;
+
+
+//#import "LWWordsService.h"
+//#import "LWBihuaService.h"
+//#import "LWEnlishService.h"
+//#import "LWHandwrittingService.h"
+//#import "LWInstanceFactory.h"
+//#import "LWMarsService.h"
+//#import "LWPinYinService.h"
+//#import "LWPyService.h"
+//#import "LWSymbolService.h"
+//#import "LWWubiService.h"
 
 #import <UIKit/UIKit.h>
+
+
+//#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php?key=qq576844233"
+#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php"  //易笔字请求的url string
+#define Key_Handwritting_Language @"Key_Handwritting_Language"
+#define Key_TopSpeed_Input @"Key_TopSpeed_Input"
 
 #define EmojiAndSymbolURLString @"http://oss.wodedata.com/db/mykeyboard_emoji_symbols"
 #define EmojiAndSymbolFileName @"emoji_symbols"
@@ -32,6 +54,8 @@
 #define EnwordsFileName @"mykeyboard_enwords"
 #define WBwordsURLString @"http://oss.wodedata.com/db/mykeyboard_wbwords"
 #define WBwordsFileName @"mykeyboard_wbwords"
+
+
 
 
 #endif
