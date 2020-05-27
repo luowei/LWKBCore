@@ -22,9 +22,9 @@ typedef NS_OPTIONS(NSUInteger, KeyboardType) {
     //特定键盘
 };
 
-#define Key_Handwritting_Language @"Key_Handwritting_Language"
-
-#define Key_TopSpeed_Input @"Key_TopSpeed_Input"
+// #define Key_Handwritting_Language @"Key_Handwritting_Language"
+// 
+// #define Key_TopSpeed_Input @"Key_TopSpeed_Input"
 
 
 #endif

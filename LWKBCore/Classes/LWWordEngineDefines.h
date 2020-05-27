@@ -4,16 +4,16 @@
 #ifndef LWWordEngineDefines____FILEEXTENSION___
 #define LWWordEngineDefines____FILEEXTENSION___
 
-// #import "LWWordsService.h"
-// #import "LWBihuaService.h"
-// #import "LWEnlishService.h"
-// #import "LWHandwrittingService.h"
-// #import "LWInstanceFactory.h"
-// #import "LWMarsService.h"
-// #import "LWPinYinService.h"
-// #import "LWPyService.h"
-// #import "LWSymbolService.h"
-// #import "LWWubiService.h"
+#import "LWWordsService.h"
+#import "LWBihuaService.h"
+#import "LWEnlishService.h"
+#import "LWHandwrittingService.h"
+#import "LWInstanceFactory.h"
+#import "LWMarsService.h"
+#import "LWPinYinService.h"
+#import "LWPyService.h"
+#import "LWSymbolService.h"
+#import "LWWubiService.h"
 
 #import <UIKit/UIKit.h>
 
