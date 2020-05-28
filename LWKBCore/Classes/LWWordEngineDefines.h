@@ -19,20 +19,18 @@
 // extern NSString * const Key_Handwritting_Language;
 // extern NSString * const Key_TopSpeed_Input;
 
+#import <UIKit/UIKit.h>
+#import "LWInstanceFactory.h"
 
 //#import "LWWordsService.h"
 //#import "LWBihuaService.h"
 //#import "LWEnlishService.h"
 //#import "LWHandwrittingService.h"
-//#import "LWInstanceFactory.h"
 //#import "LWMarsService.h"
 //#import "LWPinYinService.h"
 //#import "LWPyService.h"
 //#import "LWSymbolService.h"
 //#import "LWWubiService.h"
-
-#import <UIKit/UIKit.h>
-
 
 //#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php?key=qq576844233"
 #define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php"  //易笔字请求的url string
