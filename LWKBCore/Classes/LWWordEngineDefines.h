@@ -44,6 +44,9 @@
 #define ZidianURLString @"http://oss.wodedata.com/db/mykeyboard_zidian"
 #define ZidianFileName @"mykeyboard_zidian"
 
+#define PyCoreBundleURLString @"http://oss.wodedata.com/db/mykeyboard_pycore_bundle_zip"
+#define PyCoreBundleDirName @"pycore.bundle"
+
 #define PinYinURLString @"http://oss.wodedata.com/db/mykeyboard_pinyin"
 #define PinYinFileName @"mykeyboard_pinyin"
 #define BiHuaURLString @"http://oss.wodedata.com/db/mykeyboard_bhwords"
