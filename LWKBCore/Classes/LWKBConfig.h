@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void)hellowrold;
 
++(NSString *)userAgent;
++(NSString *)randomString;
+
 @end
 
 NS_ASSUME_NONNULL_END

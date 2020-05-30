@@ -33,7 +33,8 @@
 //#import "LWWubiService.h"
 
 //#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php?key=qq576844233"
-#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php"  //易笔字请求的url string
+//#define API_Handwritting_URLString @"http://www.yibizi.com/html5/hd8.php"  //易笔字请求的url string
+#define API_Handwritting_URLString @"https://hanzi.unihan.com.cn/api/qpen/res"  //书同文在线手写url string
 #define Key_Handwritting_Language @"Key_Handwritting_Language"
 #define Key_TopSpeed_Input @"Key_TopSpeed_Input"
 
