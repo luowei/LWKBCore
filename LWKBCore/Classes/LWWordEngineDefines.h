@@ -57,7 +57,7 @@
 #define WBwordsURLString @"http://oss.wodedata.com/db/mykeyboard_wbwords"
 #define WBwordsFileName @"mykeyboard_wbwords"
 
-
+#define Key_isPureWubi @"Key_isPureWubi"  //纯五笔开关，默认不是纯五笔
 
 
 #endif

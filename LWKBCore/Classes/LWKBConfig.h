@@ -9,6 +9,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+#define AppGroupIdentifer @"group.com.wodedata.LWInputMethod"
+
 @interface LWKBConfig : NSObject
 
 -(void)hellowrold;
