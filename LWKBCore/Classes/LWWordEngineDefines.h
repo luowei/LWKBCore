@@ -38,7 +38,7 @@
 #define Key_Handwritting_Language @"Key_Handwritting_Language"
 #define Key_TopSpeed_Input @"Key_TopSpeed_Input"
 
-#define EmojiAndSymbolURLString @"http://oss.wodedata.com/db/mykeyboard_emoji_symbols"
+#define EmojiAndSymbolURLString @"http://oss.wodedata.com/db/mykeyboard_emoji_symbols2"
 #define EmojiAndSymbolFileName @"emoji_symbols"
 #define TranditionalAndMarURLString @"http://oss.wodedata.com/db/mykeyboard_traditional_mars"
 #define TranditionalAndMarsFileName @"traditional_mars"
