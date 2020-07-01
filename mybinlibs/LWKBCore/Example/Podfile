@@ -1,0 +1,14 @@
+# use_frameworks!
+install! 'cocoapods', :disable_input_output_paths => true 
+
+platform :ios, '8.0'
+
+target 'LWKBCore_Example' do
+  pod 'LWKBCore', :path => '../'
+
+  target 'LWKBCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
