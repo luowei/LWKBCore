@@ -1,9 +1,5 @@
 # LWKBCore
 
-[![CI Status](https://img.shields.io/travis/luowei/LWKBCore.svg?style=flat)](https://travis-ci.org/luowei/LWKBCore)
-[![Version](https://img.shields.io/cocoapods/v/LWKBCore.svg?style=flat)](https://cocoapods.org/pods/LWKBCore)
-[![License](https://img.shields.io/cocoapods/l/LWKBCore.svg?style=flat)](https://cocoapods.org/pods/LWKBCore)
-[![Platform](https://img.shields.io/cocoapods/p/LWKBCore.svg?style=flat)](https://cocoapods.org/pods/LWKBCore)
 
 ## Example
 
