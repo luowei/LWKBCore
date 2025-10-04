@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Swift Version](./README_SWIFT_VERSION.md)
 - [Core Features](#core-features)
 - [Keyboard Types](#keyboard-types)
 - [Requirements](#requirements)
