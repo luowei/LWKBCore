@@ -1,5 +1,12 @@
 # LWKBCore
 
+
+## graphify Knowledge Graph
+
+- Interactive graph: https://luowei.github.io/LWKBCore/
+- Report: https://luowei.github.io/LWKBCore/GRAPH_REPORT.md
+- Graph data: https://luowei.github.io/LWKBCore/graph.json
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://gitlab.com/ioslibraries1/lwkbcore)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://gitlab.com/ioslibraries1/lwkbcore/blob/master/LICENSE)
 [![Platform](https://img.shields.io/badge/platform-iOS%208.0%2B-orange.svg)](https://gitlab.com/ioslibraries1/lwkbcore)
